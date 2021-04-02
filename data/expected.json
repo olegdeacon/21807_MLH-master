@@ -1,0 +1,17 @@
+{
+    "title" : "MLH trial",
+
+    "name" : "1.What is your HERO's name?",
+    "namePlaceholder" : "Hero's name",
+
+    "instruction" : "Let's create your own HERO! It's super easy with our application!",
+    "header" : "My Little Hero",
+    "gender" : "2.Please choose a gender.",
+    "male" : "he",
+    "female" : "she",
+    "creature" : "it",
+    "age" : "3.How old is your hero?",
+    "storyType" : "4.What type of story would you like read?",
+    "imageFieldLabel" : "5.Upload an image (optional)",
+    "submitText" : "Create!"
+}
